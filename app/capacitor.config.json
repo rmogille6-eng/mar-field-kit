@@ -1,0 +1,13 @@
+{
+	"appId": "com.mar.fieldkit",
+	"appName": "MAR Field Kit",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 2000,
+			"backgroundColor": "#F7FAFC"
+		}
+	},
+	"android": {}
+}
